@@ -1,3 +1,3 @@
-
-// Placeholder for future interactivity
-console.log("Welcome to NextGenWebs!");
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Welcome to Our Professional Services Page!");
+});
